@@ -1,0 +1,14 @@
+{
+    "nomeEscritorio":"staging",
+    "nomeCurto":"staging",
+    "nomeConjunto":"staging",
+    "url":"staging.brokkr.app",
+    "dominioEmail":"brokkr.app",
+    "logoFront": "assets/logoApollo.png",
+    "logoReduzido": "assets/logo-a.png",
+    "uploadDomain": "/app/uploads/",
+    "escritorio": "staging",
+    "nomeIntranet": "Intranet staging",
+    "logoAPI": "logo-a.png"
+}
+ 
